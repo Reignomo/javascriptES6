@@ -1,4 +1,4 @@
-#Cruso de Javascript ES6
+# Javascript ES6
 
 
 ## Settings guide
