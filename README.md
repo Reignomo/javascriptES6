@@ -1,1 +1,3 @@
-Cruso de Javascript ES6
+--Cruso de Javascript ES6
+
+# Exercicios 
