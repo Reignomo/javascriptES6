@@ -7,6 +7,6 @@
 - 3 run ``yarn dev`` 
 ## Desafios 
 
-- 1 ``https://github.com/Rocketseat/starter-javascript-es6-exercicios/tree/master/M%C3%B3dulo%2001`` solutions are `` Desafios/Modulo1/``
+- 1 ``https://github.com/Rocketseat/starter-javascript-es6-exercicios/tree/master/M%C3%B3dulo%2001`` solutions are in `` Desafios/Modulo1/``
 - 2  
 - 3
